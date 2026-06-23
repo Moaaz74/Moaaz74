@@ -87,7 +87,7 @@ Raw Data → Cleaning → Transformation → Modeling → Analytics Layer
 
 ## 🤝 Connect
 
-- LinkedIn: linkedin.com/in/moaaz-mostafa-469736209  
+- LinkedIn: https://linkedin.com/in/moaaz-mostafa-469736209  
 - Email: moaazmostafa7474@gmail.com‬
 
 ---
